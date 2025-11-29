@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "Casca dia Code, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 30,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorWidth":2,
+    "workbench.colorCustomizations": {
+  "editorCursor.foreground": "#2cff05"   // ใส่สีที่ต้องการ
+    }
+}
